@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//subinDeveloper.github.oi/counter_app/static/css/main.ec524d6e.css",
+    "main.js": "/https//subinDeveloper.github.oi/counter_app/static/js/main.fee92c69.js",
+    "index.html": "/https//subinDeveloper.github.oi/counter_app/index.html",
+    "main.ec524d6e.css.map": "/https//subinDeveloper.github.oi/counter_app/static/css/main.ec524d6e.css.map",
+    "main.fee92c69.js.map": "/https//subinDeveloper.github.oi/counter_app/static/js/main.fee92c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec524d6e.css",
+    "static/js/main.fee92c69.js"
+  ]
+}
